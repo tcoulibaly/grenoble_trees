@@ -28,3 +28,7 @@ Machine learing techniques are used for this regression problem with several ste
 ## Results
 
 ## Next Steps
+
+## Notes
+
+Jupyter notebook can be open into http://nbviewer.jupyter.org/ to correctly display maps.
