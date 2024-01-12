@@ -1,0 +1,9 @@
+setup.py
+src/gamt/__init__.py
+src/gamt/data_process.py
+src/gamt/visualize.py
+src/gamt/year_prediction.py
+src/gamt.egg-info/PKG-INFO
+src/gamt.egg-info/SOURCES.txt
+src/gamt.egg-info/dependency_links.txt
+src/gamt.egg-info/top_level.txt
